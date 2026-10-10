@@ -4,7 +4,6 @@ Bu proje, Java ve **iTextPDF** kütüphanesi kullanılarak nesne yönelimli prog
 
 ## 👨‍💻 Geliştirici Bilgileri
 * **Ad Soyad:** Muhammet Mert Oruç
-* **Öğrenci No:** 1250505077
 * **Bölüm:** Yazılım Mühendisliği
 
 ## 🚀 Proje İçeriği ve Mimari
